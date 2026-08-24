@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/en:/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/en/:/en/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/fr/:/fr/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/fr:/fr",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/es/:/es/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/es:/es",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/ja/:/ja/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/ja:/ja",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/de/:/de/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/de:/de",
-    "/content/696f3e84bf795426d5d1d8e7/configuration:/.helix/config.json",
-    "/content/696f3e84bf795426d5d1d8e7/metadata:/metadata.json",
-    "/content/696f3e84bf795426d5d1d8e7/redirects:/redirects.json",
-    "/content/696f3e84bf795426d5d1d8e7/placeholders:/placeholders.json"
+    "/content/ksawada/keikosawadainternal/language-masters/en:/",
+    "/content/ksawada/keikosawadainternal/language-masters/en/:/en/",
+    "/content/ksawada/keikosawadainternal/language-masters/fr/:/fr/",
+    "/content/ksawada/keikosawadainternal/language-masters/fr:/fr",
+    "/content/ksawada/keikosawadainternal/language-masters/es/:/es/",
+    "/content/ksawada/keikosawadainternal/language-masters/es:/es",
+    "/content/ksawada/keikosawadainternal/language-masters/ja/:/ja/",
+    "/content/ksawada/keikosawadainternal/language-masters/ja:/ja",
+    "/content/ksawada/keikosawadainternal/language-masters/de/:/de/",
+    "/content/ksawada/keikosawadainternal/language-masters/de:/de",
+    "/content/ksawada/keikosawadainternal/configuration:/.helix/config.json",
+    "/content/ksawada/keikosawadainternal/metadata:/metadata.json",
+    "/content/ksawada/keikosawadainternal/redirects:/redirects.json",
+    "/content/ksawada/keikosawadainternal/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/696f3e84bf795426d5d1d8e7/",
-    "/content/dam/696f3e84bf795426d5d1d8e7/"
+    "/content/ksawada/keikosawadainternal/",
+    "/content/dam/ksawada/keikosawadainternal/"
   ]
 }
